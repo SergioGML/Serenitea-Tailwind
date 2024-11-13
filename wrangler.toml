@@ -1,0 +1,8 @@
+name = "my-worker-project"
+type = "webpack"
+route = ''
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+compatibility_date = "2024-11-13"
